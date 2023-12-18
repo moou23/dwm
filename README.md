@@ -1,5 +1,7 @@
 **my dwm config**
 
+![](dwm.png)
+
 I applied following patches:
 ---
 * 1_dwm-fullgaps-6.4.diff
