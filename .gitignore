@@ -1,5 +1,5 @@
+dwm
 *.o
 *.orig
-dwm
 config.h
 *.rej
